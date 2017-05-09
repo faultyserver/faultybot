@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    chronic (0.10.2)
+    cinch (2.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  chronic
+  cinch
+
+BUNDLED WITH
+   1.14.6
